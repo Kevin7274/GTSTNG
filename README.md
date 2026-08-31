@@ -1,6 +1,6 @@
 # GTSTNG 
 probando funciones git con github 
 
-##Repo testing de git
+Repo testing de git
 
-#probando con pyton
+### probando con pyton
