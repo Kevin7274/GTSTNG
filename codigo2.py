@@ -1,2 +1,2 @@
-nombre = "cuatro uno y dos"
+nombre = "XD"
 print ("Hola " + nombre) 
